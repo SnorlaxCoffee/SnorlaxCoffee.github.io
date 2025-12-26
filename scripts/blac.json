@@ -1,0 +1,12 @@
+{
+  "login": {
+    "user_001": {
+      "user": "admin",
+      "pass": "1234"
+    },
+    "user_002": {
+      "user": "soora",
+      "pass": "abcd"
+    }
+  }
+}
